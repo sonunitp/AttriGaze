@@ -30,7 +30,7 @@ Churnlytics predicts whether a telecom customer will churn based on factors like
 ## Installation & Usage  
 1. Clone the repository  
 
-  [https://github.com/sonunitp/Churn_Predictor]
+  [https://github.com/sonunitp/AttriGaze]
   
 2. Install dependencies  
    ```
