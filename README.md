@@ -31,9 +31,7 @@ Churnlytics predicts whether a telecom customer will churn based on factors like
 1. Clone the repository  
 
   [https://github.com/sonunitp/Churn_Predictor]
-    ```
-   cd Churnlytics 
-    ```  
+  
 2. Install dependencies  
    
    pip install -r requirements.txt
