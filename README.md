@@ -4,7 +4,7 @@
 AttriGaze—a savior for telecom industries where customer churn threatens profits. In today's scenario, acquisition costs are much higher than retention, making it crucial to predict churn early. Built on the Kaggle Telco dataset, it predicts whether a customer is likely to churn or stay, enabling businesses to act before it’s too late. Because in this game, retaining customers isn’t just strategy , it’s survival.
 
 ## Overview  
-Churnlytics predicts whether a telecom customer will churn based on factors like **tenure, monthly charges, contract type, online security, and more**. It leverages **Exploratory Data Analysis (EDA)** and a **Decision Tree Classifier** for accurate and interpretable predictions. Since **acquisition costs exceed retention**, this project helps businesses minimize customer churn.
+AttriGaze predicts whether a telecom customer will churn based on factors like **tenure, monthly charges, contract type, online security, and more**. It leverages **Exploratory Data Analysis (EDA)** and a **Decision Tree Classifier** for accurate and interpretable predictions. Since **acquisition costs exceed retention**, this project helps businesses minimize customer churn.
 
 
 ## Dataset  
